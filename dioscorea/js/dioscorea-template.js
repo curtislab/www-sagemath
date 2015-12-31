@@ -47,7 +47,7 @@ function dioscoreaNav() {
 		      </li> \
 		      <li><a href="#">Research</a> \
 			<ul> \
-			  <li><a href="centers.html">Centers/Initiatives</a></li> \
+			  <li><a href="researchers.html">Researchers</a></li> \
 			  <li><a href="publications.html">Publications</a></li> \
 			  <li><a href="dormancy.html">Dormancy</a></li> \
 			  <li><a href="se.html">Somatic Embryogenesis</a></li> \
