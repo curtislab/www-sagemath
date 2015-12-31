@@ -1,7 +1,8 @@
 function dioscoreaFooter() {
 	document.write(' \
 		<div id="footer-wrap"> \
-		  <a href="http://curtislab.org">A CurtisLab Production</a>,  \
+		  <a href="http://curtislab.org">A CurtisLab Production</a>  \
+                  on <a href="http://github.com/curtislab/www">GitHub</a> \
 		  <a href="http://creativecommons.org/licenses/by-sa/4.0/">under a  \
 		  Creative Commons Attribution-ShareAlike 4.0 License</a></p> \
 		</div> \
