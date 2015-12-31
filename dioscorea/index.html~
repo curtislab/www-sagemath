@@ -4,7 +4,7 @@
 <title>dioscorea.org</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset="UTF-8">
-<link href="css/style.css" type="text/css" rel="stylesheet" >
+<link href="style.css" type="text/css" rel="stylesheet" >
 </head>
 
 <body>
@@ -59,33 +59,18 @@
     </ul>
   </nav>
 
-  <h1>About Dioscorea</h1>
+  <h1>dioscorea.org</h1>
   <p>
-    Dioscorea, the monocot which produces yams, has over 600 different species, 
-    which originate from the tropical zones of Asia and Africa depending on the 
-    species. It has been cultivated for more than 2,000 years, now feeding more 
-    than 300M people in Agrica, but still has enormous challenges in propagation 
-    to feed a still hungry and growing population. Some varieties of yams are used medicinally. 
-  </p>
-  <p>
-    While this site is currently under construction, we suggest the following links 
-    for information pertinent to the basics of yam:
+    di&#2022;os&#2022;co&#2022;rea &#2014; a genus of monocots, mostly tropical twining 
+    herbs, characterized by its yam tubers, net-veined leaves, and small dioecious flowers
   </p>
 
-  <ul>
-    <li>
-      <a href="http://www.fs.fed.us/database/feis/plants/vine/diospp/all.html">
-      USDA's Forestry Services Introduction to Dioscorea</a>
-    </li>
-    <li>
-      <a href="http://www.arthurleej.com/p-o-m-May13.html">
-      Arthur Lee Jacobson's Guide to Dioscorea</a>
-    </li>
-    <li>
-      <a href="https://factsreports.revues.org/659?lang=en">
-      Introduction of Field Actions Science Reports</a>
-    </li>
-  </ul>
+  <img src="img/Dioscorea_balcanica_BotGardBln310505.jpg">
+  
+  <p>
+    This site is currently under construction. In the meantime, go play in your soil! 
+    Soil is the new <a href="http://discovermagazine.com/2007/jul/raw-data-is-dirt-the-new-prozac">Prozac</a>!
+  </p>
 
   <div id="footer-wrap">
     <a id="footer-text" href="http://curtislab.org">A CurtisLab Production</a>
