@@ -23,7 +23,7 @@ function dioscoreaNav() {
 	document.write(' \
 		  <nav id="primary_nav_wrap"> \
 		    <ul> \
-		      <li class="nav"><a href="index.html">Home</a> \
+		      <li class="nav"><a href=".">Home</a> \
 		      </li> \
 		      <li><a href="#">About Dioscorea</a> \
 			<ul> \
