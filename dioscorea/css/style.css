@@ -3,14 +3,33 @@ body {
 }
 
 h1 {
-  margin: 20 0 0 0;
+  margin: 0 0 0 0;
 }
 
-#content_wrap {
+table {
+  background:#cccccc;
+  border-spacing:0px;
+  width:100%;
+}
+
+th {
+  background:#aaaaaa;
+}
+
+td {
+  padding:2px 5px;
+}
+
+#outer_wrap {
   width:800px;
   margin:0 auto 0 auto;
   background-color:white;
-  padding:0 0 0 12px;
+}
+
+#content_wrap {
+  overflow:auto;
+  clear:both;
+  padding:12px;
 }
 
 #primary_nav_wrap {
@@ -99,14 +118,12 @@ h1 {
 
 #footer-wrap {
   background:black;
-  width:90%;
+  width:80%;
   height:10px;
   padding: 10px;
   border-radius: 0 20px 0 0;
   text-align: center;
   margin: 0 0 10 0;
-  position:relative;
-  left:-20px;
 }
 
 #footer-text {
