@@ -29,10 +29,9 @@ function dioscoreaNav() {
 		      <li><a href="#">About Dioscorea</a> \
 			<ul> \
 			  <li><a href="basics.html">Basics</a></li> \
-			  <li><a href="names.html">Common Names</a></li> \
+			  <li><a href="taxonomy.html">Taxonomy</a></li> \
 			  <li><a href="phylogeny.html">Phylogeny</a></li> \
 			  <li><a href="genetics.html">Genetics</a> \
-			  <li><a href="significance.html">Significance</a> \
 			  <li><a href="nutrition.html">Nutrition</a> \
 			  <li><a href="medical.html">Medical Uses</a> \
 			</ul> \
@@ -41,19 +40,42 @@ function dioscoreaNav() {
 			<ul> \
 			  <li><a href="where.html">Climate & Regions</a></li> \
 			  <li><a href="techniques.html">Techniques</a></li> \
-			  <li><a href="howto.html">For Sharecroppers</a></li> \
 			  <li><a href="economics.html">Economics</a></li> \
+			  <li><a href="gender.html">Gender Roles</a></li> \
 			  <li><a href="challenges.html">Challenges</a></li> \
 			</ul> \
+		      <li><a href="#"<Resources</a> \
+		      	<ul> \
+		      	  <li><a href="researchResources.html">For Researchers</a></li> \
+		      	  <li><a href="farmerResources.html">For Sharecroppers</a></li> \
+		      	  <li><a href="media.html">Media Recipes</a></li> \
+		      	  <li><a href="SOPs.html">Prodecures</a></li> \
+		      	</ul> \
 		      </li> \
 		      <li><a href="#">Research</a> \
 			<ul> \
-			  <li><a href="researchers.html">Researchers</a></li> \
+			  <li><a href="researchers.html">Research Groups</a></li> \
+			  <li><a href="centers.html">Centers & Initiatives</a></li> \
 			  <li><a href="publications.html">Publications</a></li> \
-			  <li><a href="dormancy.html">Dormancy</a></li> \
-			  <li><a href="se.html">Somatic Embryogenesis</a></li> \
-			  <li><a href="bioreactors.html">Reactor Design</a></li> \
-			  <li><a href="micropropagation.html">Micropropagation</a></li> \
+			  <li><a href="projects.html">Projects</a></li> \
+			  <li><a href="ongoing.html">Ongoing Research</a></li> \
+			  	<ul> \
+			  	<li><a href="breeding.html">Breeding (In)Efficiency</a></li> \
+			  	<li><a href="biodiversity.html">Biodiversity</a></li> \
+			  	<li><a href="VCA-econ.html">Economics/Value Chain Analysis</a></li> \
+			  	<li><a href="foodScience.html">Food Science & Value Addition</a></li> \
+			  	<li><a href="genetics.html">Genetics & Ploidy Levels</a></li> \
+			  	<li><a href="macropropagation.html">Macropropagation</a></li> \
+			  	<li><a href="micropropagation.html">Micropropagation</a></li> \
+			  	  <ul> \
+			  	  <li><a href="se.html">Somatic Embryogenesis</a></li> \
+			  	  <li><a href="bioreactors.html">Temporary Immersion Reactors</a></li> \
+			  	  </ul> \
+			  	<li><a href="viruses.html">Viruses & Pathogens</a></li> \
+			  	<li><a href="viruses.html">Shelf-Life/Storage</a></li> \
+			  	<li><a href="viruses.html">Germplasm Conservation</a></li> \
+			  	<li><a href="viruses.html">Technology Transfer</a></li> \
+			  	</ul> \
 			</ul> \
 		      </li> \
 		      <li><a href="#">Media</a> \
