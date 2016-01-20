@@ -72,9 +72,9 @@ function dioscoreaNav() {
 			  	  <li><a href="bioreactors.html">Temporary Immersion Reactors</a></li> \
 			  	  </ul> \
 			  	<li><a href="viruses.html">Viruses & Pathogens</a></li> \
-			  	<li><a href="viruses.html">Shelf-Life/Storage</a></li> \
-			  	<li><a href="viruses.html">Germplasm Conservation</a></li> \
-			  	<li><a href="viruses.html">Technology Transfer</a></li> \
+			  	<li><a href="storage.html">Shelf-Life/Storage</a></li> \
+			  	<li><a href="germplasm.html">Germplasm Conservation</a></li> \
+			  	<li><a href="techTransfer.html">Technology Transfer</a></li> \
 			  	</ul> \
 			</ul> \
 		      </li> \
