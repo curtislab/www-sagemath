@@ -44,6 +44,7 @@ function dioscoreaNav() {
 			  <li><a href="gender.html">Gender Roles</a></li> \
 			  <li><a href="challenges.html">Challenges</a></li> \
 			</ul> \
+			</li> \
 		      <li><a href="#"<Resources</a> \
 		      	<ul> \
 		      	  <li><a href="researchResources.html">For Researchers</a></li> \
