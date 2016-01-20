@@ -31,9 +31,9 @@ function dioscoreaNav() {
 			  <li><a href="basics.html">Basics</a></li> \
 			  <li><a href="taxonomy.html">Taxonomy</a></li> \
 			  <li><a href="phylogeny.html">Phylogeny</a></li> \
-			  <li><a href="genetics.html">Genetics</a> \
-			  <li><a href="nutrition.html">Nutrition</a> \
-			  <li><a href="medical.html">Medical Uses</a> \
+			  <li><a href="genetics.html">Genetics</a></li>  \
+			  <li><a href="nutrition.html">Nutrition</a></li> \
+			  <li><a href="medical.html">Medical Uses</a></li> \
 			</ul> \
 		      </li> \
 		      <li><a href="#">Yam Propagation 101</a> \
