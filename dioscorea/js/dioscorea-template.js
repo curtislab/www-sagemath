@@ -50,7 +50,7 @@ function dioscoreaNav() {
 		      	  <li><a href="researchResources.html">For Researchers</a></li> \
 		      	  <li><a href="farmerResources.html">For Sharecroppers</a></li> \
 		      	  <li><a href="media.html">Media Recipes</a></li> \
-		      	  <li><a href="SOPs.html">Prodecures</a></li> \
+		      	  <li><a href="SOPs.html">Protocols</a></li> \
 		      	</ul> \
 		      </li> \
 		      <li><a href="#">Research</a> \
@@ -79,7 +79,7 @@ function dioscoreaNav() {
 			  	</ul> \
 			</ul> \
 		      </li> \
-		      <li><a href="#">Media</a> \
+		      <li><a href="#">Multimedia</a> \
 			<ul> \
 			  <li><a href="recipes.html">Recipes</a></li> \
 			  <li><a href="gallery.html">Gallery</a></li> \
