@@ -14,10 +14,12 @@ table {
 
 th {
   background:#aaaaaa;
+  font-weight: bold;
 }
 
 td {
   padding:2px 5px;
+  border: 1px solid;
 }
 
 #outer_wrap {
