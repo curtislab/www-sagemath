@@ -47,6 +47,7 @@ iframe {
 /* Styling links: http://www.w3schools.com/css/css_link.asp */
 a {
     text-decoration:none;
+    color:#335589;
 }
 
 a:link,a:visited {
