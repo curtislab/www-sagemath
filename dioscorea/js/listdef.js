@@ -1,5 +1,5 @@
 var options = {
-  valueNames: [ 'title', 'format', 'category', 'description', 'affiliation', 'position' ]
+  valueNames: [ 'title', 'format', 'category', 'research', 'affiliation', 'position' ]
 };
 
 var contentList = new List('content-list', options);
