@@ -1,5 +1,5 @@
 var options = {
-  valueNames: [ 'title', 'format', 'category', 'description' ]
+  valueNames: [ 'title', 'format', 'category', 'description', 'affiliation', 'position' ]
 };
 
 var contentList = new List('content-list', options);
@@ -13,7 +13,7 @@ $('#search-reset').click(function() {
 
 $('#filter-ucc').click(function() {
   contentList.filter(function(item) {
-    if (item.values().institution == "University of Cape Coast (UCC)") {
+    if (item.values().affiliation == "University of Cape Coast (UCC)") {
       return true;
     } else {
       return false;
@@ -24,7 +24,7 @@ $('#filter-ucc').click(function() {
 
 $('#filter-inrab').click(function() {
   contentList.filter(function(item) {
-    if (item.values().institution == "INRAB") {
+    if (item.values().affiliation == "INRAB") {
       return true;
     } else {
       return false;
@@ -35,7 +35,7 @@ $('#filter-inrab').click(function() {
 
 $('#filter-uac').click(function() {
   contentList.filter(function(item) {
-    if (item.values().institution == "University of Abomey Calavi") {
+    if (item.values().affiliation == "University of Abomey Calavi") {
       return true;
     } else {
       return false;
@@ -46,7 +46,7 @@ $('#filter-uac').click(function() {
 
 $('#filter-iita').click(function() {
   contentList.filter(function(item) {
-    if (item.values().institution == "IITA") {
+    if (item.values().affiliation == "IITA") {
       return true;
     } else {
       return false;
@@ -57,7 +57,7 @@ $('#filter-iita').click(function() {
 
 $('#filter-cirad').click(function() {
   contentList.filter(function(item) {
-    if (item.values().institution == "CIRAD") {
+    if (item.values().affiliation == "CIRAD") {
       return true;
     } else {
       return false;
