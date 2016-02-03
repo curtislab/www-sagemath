@@ -11,9 +11,9 @@ $('#search-reset').click(function() {
   return false;
 });
 
-$('#filter-wiki').click(function() {
+$('#filter-ucc').click(function() {
   contentList.filter(function(item) {
-    if (item.values().format == "Wiki") {
+    if (item.values().institution == "University of Cape Coast (UCC)") {
       return true;
     } else {
       return false;
@@ -22,9 +22,9 @@ $('#filter-wiki').click(function() {
   return false;
 });
 
-$('#filter-drive').click(function() {
+$('#filter-inrab').click(function() {
   contentList.filter(function(item) {
-    if (item.values().format == "Google Drive") {
+    if (item.values().institution == "INRAB") {
       return true;
     } else {
       return false;
@@ -33,9 +33,9 @@ $('#filter-drive').click(function() {
   return false;
 });
 
-$('#filter-blog').click(function() {
+$('#filter-uac').click(function() {
   contentList.filter(function(item) {
-    if (item.values().format == "Blog") {
+    if (item.values().institution == "University of Abomey Calavi") {
       return true;
     } else {
       return false;
@@ -44,9 +44,9 @@ $('#filter-blog').click(function() {
   return false;
 });
 
-$('#filter-app').click(function() {
+$('#filter-iita').click(function() {
   contentList.filter(function(item) {
-    if (item.values().format == "App") {
+    if (item.values().institution == "IITA") {
       return true;
     } else {
       return false;
@@ -55,9 +55,9 @@ $('#filter-app').click(function() {
   return false;
 });
 
-$('#filter-video').click(function() {
+$('#filter-cirad').click(function() {
   contentList.filter(function(item) {
-    if (item.values().format == "Video") {
+    if (item.values().institution == "CIRAD") {
       return true;
     } else {
       return false;
