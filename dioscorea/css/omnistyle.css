@@ -79,6 +79,7 @@ h2 {margin: 10px; }
 h3,h4 {margin: 0px; font-family: Verdana, sans-serif;}
 h3 {color:#335589; }
 .description {font-style: italic; }
+.email .publications {font-weight:bold;}
 div.container {width:800px; border-radius:10px; background-color:#eaeaea; padding:0px; margin:5px 0px; overflow:auto;}
 .search {font-size:2.0em; width:550px;}
 
