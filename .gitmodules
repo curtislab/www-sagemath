@@ -1,0 +1,3 @@
+[submodule "tutorial"]
+	path = tutorial
+	url = git@github.com:/brandoncurtis/sagemath
